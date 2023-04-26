@@ -1,3 +1,3 @@
 # LearningAPI
 
-Blood sweat and tears
+Creating my API into a MVC API
