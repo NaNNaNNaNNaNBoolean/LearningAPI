@@ -1,0 +1,254 @@
+[
+    {
+        "id":1,
+        "title":"Yu-Gi-Oh!",
+        "state":"complete",
+        "NicolesRating": "8 out 10. It's a classic",
+        "maingenre":"Horror",
+        "mangaka":"Kazuki Takahashi"
+    },
+    {
+        "id":2,
+        "title":"Yu-Gi-Oh! Duelist",
+        "state":"complete",
+        "NicolesRating": "8 of 10 Duel city forever!",
+        "maingenres":"Battle Royal",
+        "mangaka":"Kazuki Takahashi"
+    },  
+    {
+        "id":3,
+        "title":"Yu-Gi-Oh! R",
+        "state":"complete",
+        "NicolesRating": "7 of 10 A short mini series",
+        "maingenres":"Adventure",
+        "mangaka":"Kazuki Takahashi"
+    },
+    {
+        "id":4,
+        "title":"Yu-Gi-Oh! millennium",
+        "state":"complete",
+        "NicolesRating": "8 of 10 You'll cry!",
+        "maingenres":"Adventure",
+        "mangaka":"Kazuki Takahashi"
+    },
+    {
+        "id":5,
+        "title":"Yu-Gi-Oh! GX",
+        "state":"complete",
+        "NicolesRating": "8 of 10 who wouldn't want to go to Duel School",
+        "maingenres":"Adventure",
+        "mangaka":"Kazuki Takahashi & Naoyuki Kageyama"
+    },
+    {
+        "id":6,
+        "title":"Yu-Gi-Oh! 5Ds",
+        "state":"complete",
+        "NicolesRating": "8 of 10 Card games on motocycles what more can you say",
+        "maingenres":"Adventure",
+        "mangaka":"Kazuki Takahashi & Masahiro Hikokubo & Masashi Sato"
+
+    },    
+    {
+        "id":7,
+        "title":"Yu-Gi-Oh! Zexal",
+        "state":"complete",
+        "NicolesRating": "6 out of 10 mid",
+        "maingenres":"Adventure",
+        "mangaka":""
+    },
+    {
+        "id":8,
+        "title":"Yu-Gi-Oh! ArcV",
+        "state":"complete",
+        "NicolesRating": "6 out of 10 mid",
+        "maingenres":"Adventure",
+        "mangaka":""
+    },
+    {
+        "id":9,
+        "title":"Blue Exorcist",
+        "state":"ongoing",
+        "NicolesRating": "8 of 10 classic",
+        "maingenres":"",
+        "mangaka":""
+
+    },
+    {
+        "id":10,
+        "title":"Bleach",
+        "state":"complete",
+        "NicolesRating": "8 of 10 The best out of the big three",
+        "maingenres":"Shonen",
+        "mangaka":"Tite Kubo"
+
+    },
+    {
+        "id":11,
+        "title":"Soul Eater",
+        "state":"uncomplete",
+        "NicolesRating": "7 of 10 a classic",
+        "maingenres":"Shonen",
+        "mangaka":"Atsushi Ohkubo"
+    },
+    {
+        "id":12,
+        "title":"Pandora Hearts",
+        "state":"uncomplete",
+        "NicolesRating": "8 of 10 Alice in wonderland, but wh invited the wizard of Oz",
+        "maingenres":"",
+        "mangaka":""
+
+    },
+    {
+        "id":13,
+        "title":"Fairy Tail",
+        "state":"uncomplete",
+        "NicolesRating": "7 of 10 a classic",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":14,
+        "title":"Full metal alchemist",
+        "state":"dropped",
+        "NicolesRating": "6 of 10 idk couldnt get into it",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":15,
+        "title":"Haruhi Suzumiya-chan",
+        "state":"complete",
+        "NicolesRating": "9 of 10 a comedic fun sorts ",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":16,
+        "title":"yuki Nagato-chan",
+        "state":"complete",
+        "NicolesRating": "7 of 10 what if there is no god?",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":17,
+        "title":"Naruto",
+        "state":"ongoing",
+        "NicolesRating": "7 of 10 Ninjas",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":18,
+        "title":"Nisekoi false love",
+        "state":"uncomplete",
+        "NicolesRating": "6 of 10 Never gonna read one of these again",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":19,
+        "title":"Cardfight Vangaurd",
+        "state":"uncomplete",
+        "NicolesRating": "Card game is more fun",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":20,
+        "title":"Ouran High School Host Club",
+        "state":"uncomplete",
+        "NicolesRating": "7 of 10 a classic story about everyday situations, break a vase, become a host, pay off your debt!",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":21,
+        "title":"Attack on Titan",
+        "state":"dropped",
+        "NicolesRating": "",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":22,
+        "title":"Seraph of the end ",
+        "state":"dropped",
+        "NicolesRating": "very cool outfits",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":23,
+        "title":"manga dogs",
+        "state":"complete",
+        "NicolesRating": "funny lil series",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":24,
+        "title":"mar",
+        "state":"uncomplete",
+        "NicolesRating": "giving kingdom hearts vibes",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":25,
+        "title":"bakuman",
+        "state":"uncomplete",
+        "NicolesRating": "Really puts you off trying to make your own",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":26,
+        "title":"one piece",
+        "state":"dropped",
+        "NicolesRating": "I'll try and get into it again one day, for now tho, no",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":27,
+        "title":"death note",
+        "state":"uncomplete",
+        "NicolesRating": "meh, lights a bit overated",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":28,
+        "title":"assassination classrom",
+        "state":"uncomplete",
+        "NicolesRating": "whys the moon broken?",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":29,
+        "title":"akame ga kill",
+        "state":"dropped",
+        "NicolesRating": "meh",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":30,
+        "title":"tokyo ghoul",
+        "state":"uncomplete",
+        "NicolesRating": "carinvores but make it spicy",
+        "maingenres":"",
+        "mangaka":""
+    },
+    {
+        "id":31,
+        "title":"twin star exorist",
+        "state":"dropped",
+        "NicolesRating": "meh",
+        "maingenres":"",
+        "mangaka":""
+    }
+]
